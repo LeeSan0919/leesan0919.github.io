@@ -1,6 +1,6 @@
 ---
 title: "[System Hacking] ASLR(Address Space Layout Randomization)의 원리와 한계"
-date: 2026-11-26
+date: 2026-10-06
 categories:
   - 블로그/기술문서
 ---
